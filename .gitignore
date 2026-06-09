@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!src/**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+
+# NDK / CMake
+.cxx/
+.externalNativeBuild/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+emulator_screen.png
+
+# Keystores (never commit)
+*.jks
+*.keystore

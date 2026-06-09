@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Double Key Keyboard</string>
+    <string name="keyboard_name">Double Key Keyboard</string>
+    <string name="settings_title">Double Key Keyboard</string>
+    <string name="settings_enable_hint">Ve a Ajustes → Sistema → Idiomas y entrada → Teclado en pantalla → Double Key Keyboard y actívalo.</string>
+    <string name="settings_learn_hint">El texto predictivo aprende de tus palabras al escribir. Los datos se guardan solo en tu dispositivo.</string>
+    <string name="suggestion_bar_hint">Sugerencias</string>
+    <string name="key_space">Espacio</string>
+    <string name="key_shift">⇧</string>
+    <string name="key_backspace">⌫</string>
+    <string name="key_enter">↵</string>
+    <string name="key_symbols">123</string>
+    <string name="key_letters">ABC</string>
+
+    <string name="onboarding_title">Double Key Keyboard</string>
+    <string name="onboarding_subtitle">Un solo APK: app de configuración + teclado de doble tecla</string>
+    <string name="onboarding_skip">Saltar por ahora</string>
+    <string name="onboarding_step1">Paso 1 de 3</string>
+    <string name="onboarding_step2">Paso 2 de 3</string>
+    <string name="onboarding_step3">Paso 3 de 3</string>
+    <string name="onboarding_step1_desc">Activa Double Key Keyboard en los ajustes de Android. Es el teclado en pantalla incluido en esta misma app.</string>
+    <string name="onboarding_step2_desc">Selecciona Double Key Keyboard como teclado predeterminado. Aparecerá en todas tus apps.</string>
+    <string name="onboarding_step3_desc">¡Listo! Personaliza colores, sonidos y diccionario desde la app.</string>
+    <string name="onboarding_btn_enable">Abrir ajustes del teclado</string>
+    <string name="onboarding_btn_default">Elegir teclado predeterminado</string>
+    <string name="onboarding_btn_finish">Empezar a escribir</string>
+    <string name="onboarding_status_pending">Pendiente</string>
+    <string name="onboarding_status_done">Completado ✓</string>
+
+    <string name="status_ready">Teclado activo y predeterminado ✓</string>
+    <string name="status_enabled_not_default">Activo, pero no es el predeterminado</string>
+    <string name="status_not_enabled">Teclado no activado aún</string>
+
+    <string name="btn_enable_keyboard">Activar teclado</string>
+    <string name="btn_set_default">Establecer como predeterminado</string>
+    <string name="btn_clear_dictionary">Borrar palabras aprendidas</string>
+
+    <string name="section_appearance">Apariencia</string>
+    <string name="section_behavior">Comportamiento</string>
+    <string name="section_dictionary">Diccionario</string>
+    <string name="section_test">Probar teclado</string>
+
+    <string name="label_theme">Tema de colores</string>
+    <string name="label_key_size">Tamaño de teclas (dedos grandes)</string>
+    <string name="label_sound">Sonido al pulsar</string>
+    <string name="label_learn">Aprender de mis palabras</string>
+    <string name="label_two_type">Modo 2-type (izq = 1ª letra, der = 2ª · doble toque = 2ª)</string>
+    <string name="label_double_space">Doble espacio = aceptar sugerencia · espacio = texto literal</string>
+    <string name="label_language">Idioma del diccionario</string>
+    <string name="lang_auto">Automático (idioma del teléfono)</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_en">English</string>
+    <string name="label_dictionary_count">Palabras en diccionario: %1$d</string>
+    <string name="demo_hint">Escribe aquí para probar el teclado…</string>
+
+    <string name="clear_dict_confirm">¿Borrar todas las palabras aprendidas?</string>
+    <string name="clear_dict_done">Diccionario borrado</string>
+</resources>
