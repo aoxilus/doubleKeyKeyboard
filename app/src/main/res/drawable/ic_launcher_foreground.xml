@@ -4,10 +4,32 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+    <!-- Shadow: K -->
     <path
-        android:fillColor="#FF1A1A1A"
-        android:pathData="M0,0h108v108h-108z" />
+        android:fillColor="#FF5C2438"
+        android:pathData="
+            M22,31h5v5h-5z M22,36h5v5h-5z M22,41h5v5h-5z M22,46h5v5h-5z M22,51h5v5h-5z M22,56h5v5h-5z M22,61h5v5h-5z M22,66h5v5h-5z M22,71h5v5h-5z
+            M27,36h5v5h-5z M32,41h5v5h-5z M37,46h5v5h-5z M27,46h5v5h-5z M27,51h5v5h-5z M32,56h5v5h-5z M37,61h5v5h-5z M42,66h5v5h-5z M47,71h5v5h-5z" />
+    <!-- Shadow: k -->
+    <path
+        android:fillColor="#FF5C2438"
+        android:pathData="
+            M54,38h4v4h-4z M54,42h4v4h-4z M54,46h4v4h-4z M54,50h4v4h-4z M54,54h4v4h-4z M54,58h4v4h-4z M54,62h4v4h-4z
+            M58,46h4v4h-4z M62,50h4v4h-4z M58,50h4v4h-4z M58,54h4v4h-4z M62,58h4v4h-4z M66,62h4v4h-4z" />
+    <!-- K (white) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M21,30h5v5h-5z M21,35h5v5h-5z M21,40h5v5h-5z M21,45h5v5h-5z M21,50h5v5h-5z M21,55h5v5h-5z M21,60h5v5h-5z M21,65h5v5h-5z M21,70h5v5h-5z
+            M26,35h5v5h-5z M31,40h5v5h-5z M36,45h5v5h-5z M26,45h5v5h-5z M26,50h5v5h-5z M31,55h5v5h-5z M36,60h5v5h-5z M41,65h5v5h-5z M46,70h5v5h-5z" />
+    <!-- k (accent cyan) -->
     <path
         android:fillColor="#FF00A4BD"
-        android:pathData="M24,36h18v12h-18zM42,42h18v12h-18zM60,36h18v12h-18zM30,54h18v12h-18zM48,60h18v12h-18z" />
+        android:pathData="
+            M53,37h4v4h-4z M53,41h4v4h-4z M53,45h4v4h-4z M53,49h4v4h-4z M53,53h4v4h-4z M53,57h4v4h-4z M53,61h4v4h-4z
+            M57,45h4v4h-4z M61,49h4v4h-4z M57,49h4v4h-4z M57,53h4v4h-4z M61,57h4v4h-4z M65,61h4v4h-4z" />
+    <!-- Pixel highlight on K -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M21,30h5v5h-5z M26,35h5v5h-5z" />
 </vector>
